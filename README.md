@@ -1,59 +1,60 @@
 # Isa Umaru-Sule
 
-Experienced Data Professional with over 10 years of proven success across healthcare, finance, and technology sectors. Skilled in deriving actionable insights through advanced analytics, machine learning, and data visualization. Proficient in tools such as Python, SQL, Tableau, and Power BI.
-
-> Enabling data-driven decisions through clear communication, reliable analysis, and strategic foresight.
-
----
-
-## Professional Summary
-
-* MSc in Data Analytics and Technologies – University of Bolton, 2023
-* Expertise in SQL, Python, R, Tableau, Power BI, and cloud platforms (AWS, Azure, GCP)
-* End-to-end project experience: goal setting, data strategy, modeling, and reporting
-* Effective communicator bridging technical and non-technical stakeholders
+**Data Professional | Business Intelligence Specialist | Strategic Analyst**
+[LinkedIn](https://www.linkedin.com/in/isaumarusule/) | [Email](mailto:isaumarusule@gmail.com)
 
 ---
 
-## Technical Skills
+## 🌍 About Me
 
-**Programming & Analysis:** Python, SQL, R, Excel
-**Data Visualization:** Tableau, Power BI, Looker Studio, Excel Dashboards
-**Cloud & ETL Tools:** AWS (Glue, EC2, S3), GCP (Big Query), Azure (Data Factory)
-**BI & Reporting:** Adobe Analytics, Google Analytics 4, Snowflake, Salesforce
-**Project Tools:** Jira, Confluence, Microsoft 365, Agile methodologies
+Experienced **Data & Analytics Professional** with 10+ years of expertise in delivering actionable insights that drive business impact. Proven ability to lead data initiatives end-to-end — from data ingestion and modeling to dashboard development and executive reporting. Adept at translating complex datasets into clear, compelling stories for stakeholders across finance, healthcare, and tech.
 
 ---
 
-## Featured Projects *(Coming Soon)*
+## 🔧 Core Competencies
 
-A curated selection of data projects demonstrating expertise in business intelligence, analytics, and reporting:
-
-* **Executive Dashboard**: Developed a Power BI dashboard analyzing 5 years of sales data
-* **Customer Segmentation Model**: Applied machine learning techniques in Python for targeted marketing
-* **Healthcare Data Report**: Cleaned and analyzed health data using SQL and visualized insights in Tableau
-* **SQL Optimization**: Refined PostgreSQL queries and improved performance using indexing strategies
-
-> Project repositories and documentation will be added shortly.
+* **Data Analysis & Statistical Modeling:** Python, R, SQL, Excel
+* **Business Intelligence & Visualization:** Tableau, Power BI, Looker Studio
+* **Cloud & Data Engineering:** AWS (Glue, EC2, S3), Azure (Data Factory), GCP (BigQuery)
+* **Project & Stakeholder Management:** Agile, Jira, Confluence, Executive Reporting
+* **Data Governance & Compliance:** Risk mitigation, QA, and policy development
 
 ---
 
-## Connect with Me
+## 📊 Featured Projects (Coming Soon)
 
-[LinkedIn Profile](https://www.linkedin.com/in/isaumarusule/)
-Email: [isaumarusule@gmail.com](mailto:isaumarusule@gmail.com)
+* **Sales Performance Dashboard (Power BI):** Visualized 5 years of sales data with advanced KPI cards and drill-through functionality
+* **Customer Segmentation Model (Python):** Applied clustering to identify key user personas and increase retention
+* **SQL Optimization Case Study:** Reduced query latency by 60% using indexed views and stored procedures
+* **Health Impact Evaluation (Tableau):** Cleaned and analyzed global health data to assess program outcomes
+
+> Projects will include interactive demos, code samples, and executive-ready documentation.
 
 ---
 
-## GitHub Analytics
+## 📚 Education & Certifications
+
+* **M.Sc. Data Analytics and Technologies**, University of Bolton
+* **MBA – ICT**, Dangote Business School
+* **B.A. International Trade and Business**, Eastern Mediterranean University
+* **AWS Cloud Solutions Architect (in progress)**
+
+---
+
+## 📈 GitHub Stats
 
 ![Isa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaumarusule\&show_icons=true\&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaumarusule\&layout=compact\&theme=default)
 
 ---
 
-## Professional Attributes
+## 🌊 What Sets Me Apart
 
-* Strong stakeholder engagement and communication
-* Cross-functional collaboration and team leadership
-* Passionate about data integrity, insight generation, and process improvement
+* Effective communicator with strong presentation and storytelling skills
+* Experienced across industries: finance, health, telecoms, and public sector
+* Cross-functional leader with a track record of mentoring and team success
+* Passionate about data democratization and ethical data use
+
+---
+
+> Let's connect: I'm always open to impactful roles, collaborations, and exciting data challenges!
